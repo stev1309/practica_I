@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.125, 14.875" name="BDEcommerce">
+  <DataContextMoniker Name="/BDEcommerceDataContext" />
+  <nestedChildShapes>
+    <classShape Id="59ca8980-9a02-4f98-8344-b8749dc973c7" absoluteBounds="0.75, 2.125, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLCATEGORIA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5245232-0657-4738-ae8e-73aa8a5ab4ec" absoluteBounds="0.765, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f4a1bcb2-0bd4-4dc8-b29d-a66a10410442" absoluteBounds="3.5, 5.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLCESTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d1103c8f-b3b8-4bc4-8b39-486885be518c" absoluteBounds="3.515, 5.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="40c6b6ce-28b1-413e-9c91-08a8b46df1f4" absoluteBounds="3.5, 8, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLCLIENTE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af7e3ed2-8ea1-4d5c-8861-b1c17a21fe7b" absoluteBounds="3.515, 8.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="aeafd6bf-dd0a-4963-9069-fa99028a446f" absoluteBounds="9.25, 6.625, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLCLIENTE_TBLCESTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d339642-a853-47ef-81bd-abb37db21e27" absoluteBounds="9.265, 7.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f308a2a-fea3-4013-a140-61c392f58bbf" absoluteBounds="6.25, 7.25, 2, 2.9247054036458318">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLCOMPRA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="63208109-62a6-4a04-833f-53c05a256d42" absoluteBounds="6.265, 7.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="17d8e93f-2591-4238-ac10-c2131589a2ab" absoluteBounds="9, 4.125, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLCOMPRA_TBLITEMCOMPRA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c3a7ba5-753d-46a4-9056-14698b3f82df" absoluteBounds="9.015, 4.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dd8b1ab6-1455-446a-a752-1b98a71d319e" absoluteBounds="6.25, 11.625, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLDIRECCIONES" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2e8c5b87-2711-4561-9848-733eca9053e7" absoluteBounds="6.265, 12.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="213cdcae-0040-4099-a059-8fc448808229" absoluteBounds="0.75, 6.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLIMPUESTOS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe3f58b9-7ab7-4a8f-8fa4-423b92621907" absoluteBounds="0.765, 6.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="028e1ceb-0569-499f-99bb-ce6b54b49331" absoluteBounds="6.25, 3.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLITEMCOMPRA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c56a4d69-237d-48ae-80d6-3aa00775cb65" absoluteBounds="6.265, 4.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b30dcc09-7fc8-4688-bc56-a37eadc6db35" absoluteBounds="8.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLMETODOPAGO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="65b147ab-3abd-44de-b12b-d078cbbcd0e3" absoluteBounds="8.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64d90ffa-1fb2-40a4-bd29-636332a1c8e9" absoluteBounds="3.5, 1.25, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLPRODUCTOS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4151b9b0-7c07-4704-8b99-3e3f6050a89f" absoluteBounds="3.515, 1.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ece00b0f-be2c-4f93-ab1a-7eded9a10624" absoluteBounds="6.25, 1.125, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLPRODUCTOS_TBLCESTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ffe2a8d-bbfa-4672-aca2-d566562227fe" absoluteBounds="6.265, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6b18c868-4ec1-471e-8754-731af96948d5" absoluteBounds="8.5, 10.125, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLROLES" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aaf73f4e-281d-4c4b-8a01-206ca26f2591" absoluteBounds="8.515, 10.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f27a9543-c539-4085-92ec-e8373a6433c4" absoluteBounds="0.75, 10.75, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLSMTP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5f769540-08f5-4071-99e6-43b0c233a316" absoluteBounds="0.765, 11.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 6.01369466145833); (11.15625 : 6.01369466145833); (11.15625 : 6.625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLCESTA/TBLCESTA_TBLCLIENTE_TBLCESTA" />
+      <nodes>
+        <classShapeMoniker Id="f4a1bcb2-0bd4-4dc8-b29d-a66a10410442" />
+        <classShapeMoniker Id="aeafd6bf-dd0a-4963-9069-fa99028a446f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 8); (4.5 : 6.90625); (9.25 : 6.90625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLCLIENTE/TBLCLIENTE_TBLCLIENTE_TBLCESTA" />
+      <nodes>
+        <classShapeMoniker Id="40c6b6ce-28b1-413e-9c91-08a8b46df1f4" />
+        <classShapeMoniker Id="aeafd6bf-dd0a-4963-9069-fa99028a446f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 8.69314697265625); (6.25 : 8.69314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLCLIENTE/TBLCLIENTE_TBLCOMPRA" />
+      <nodes>
+        <classShapeMoniker Id="40c6b6ce-28b1-413e-9c91-08a8b46df1f4" />
+        <classShapeMoniker Id="3f308a2a-fea3-4013-a140-61c392f58bbf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 7.25); (8.625 : 6.875); (8.625 : 4.72199625651042); (9 : 4.72199625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLCOMPRA/TBLCOMPRA_TBLCOMPRA_TBLITEMCOMPRA" />
+      <nodes>
+        <classShapeMoniker Id="3f308a2a-fea3-4013-a140-61c392f58bbf" />
+        <classShapeMoniker Id="17d8e93f-2591-4238-ac10-c2131589a2ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 9.3862939453125); (4.5 : 12.6065991210937); (6.25 : 12.6065991210937)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLCLIENTE/TBLCLIENTE_TBLDIRECCIONES" />
+      <nodes>
+        <classShapeMoniker Id="40c6b6ce-28b1-413e-9c91-08a8b46df1f4" />
+        <classShapeMoniker Id="dd8b1ab6-1455-446a-a752-1b98a71d319e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.36099812825521); (9 : 4.36099812825521)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLITEMCOMPRA/TBLITEMCOMPRA_TBLCOMPRA_TBLITEMCOMPRA" />
+      <nodes>
+        <classShapeMoniker Id="028e1ceb-0569-499f-99bb-ce6b54b49331" />
+        <classShapeMoniker Id="17d8e93f-2591-4238-ac10-c2131589a2ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.17470540364583); (5.875 : 4.54970540364583); (5.875 : 3.5); (6.00357443490112 : 3.62857443490112 : JumpStart); (6.12142556509888 : 3.74642556509888 : JumpEnd); (6.25 : 3.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLPRODUCTOS/TBLPRODUCTOS_TBLITEMCOMPRA" />
+      <nodes>
+        <classShapeMoniker Id="64d90ffa-1fb2-40a4-bd29-636332a1c8e9" />
+        <classShapeMoniker Id="028e1ceb-0569-499f-99bb-ce6b54b49331" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.81814697265625); (3.04166666666667 : 2.81814697265625 : JumpStart); (3.20833333333333 : 2.81814697265625 : JumpEnd); (3.5 : 2.81814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLCATEGORIA/TBLCATEGORIA_TBLPRODUCTOS" />
+      <nodes>
+        <classShapeMoniker Id="59ca8980-9a02-4f98-8344-b8749dc973c7" />
+        <classShapeMoniker Id="64d90ffa-1fb2-40a4-bd29-636332a1c8e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.125); (3.125 : 5.75); (3.125 : 2.00282148632812); (3.5 : 2.00282148632812)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLIMPUESTOS/TBLIMPUESTOS_TBLPRODUCTOS" />
+      <nodes>
+        <classShapeMoniker Id="213cdcae-0040-4099-a059-8fc448808229" />
+        <classShapeMoniker Id="64d90ffa-1fb2-40a4-bd29-636332a1c8e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.1868490375601); (6.0625 : 4.6243490375601); (6.0625 : 1.72199625651042); (6.25 : 1.72199625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLCESTA/TBLCESTA_TBLPRODUCTOS_TBLCESTA" />
+      <nodes>
+        <classShapeMoniker Id="f4a1bcb2-0bd4-4dc8-b29d-a66a10410442" />
+        <classShapeMoniker Id="ece00b0f-be2c-4f93-ab1a-7eded9a10624" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.08299438476562); (6.25 : 2.08299438476562)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLPRODUCTOS/TBLPRODUCTOS_TBLPRODUCTOS_TBLCESTA" />
+      <nodes>
+        <classShapeMoniker Id="64d90ffa-1fb2-40a4-bd29-636332a1c8e9" />
+        <classShapeMoniker Id="ece00b0f-be2c-4f93-ab1a-7eded9a10624" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="298082c5-3f6c-4447-866c-0bd13103e4ea" absoluteBounds="10.375, 13, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLCODRECUPERACION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2680aeac-367e-4aa5-bb59-6ba091609745" absoluteBounds="10.39, 13.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d81c9b70-0b22-4254-9bac-3ee464940934" absoluteBounds="11.875, 9.5, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/BDEcommerceDataContext/TBLUSUARIOS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bbdd0aa6-faff-4c8f-a791-e5b187056151" absoluteBounds="11.89, 9.96, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(12.125 : 12.4247054036458); (12.125 : 13)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLUSUARIOS/TBLUSUARIOS_TBLCODRECUPERACION" />
+      <nodes>
+        <classShapeMoniker Id="d81c9b70-0b22-4254-9bac-3ee464940934" />
+        <classShapeMoniker Id="298082c5-3f6c-4447-866c-0bd13103e4ea" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.5 : 10.8181469726562); (11.875 : 10.8181469726562)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BDEcommerceDataContext/TBLROLES/TBLROLES_TBLUSUARIOS" />
+      <nodes>
+        <classShapeMoniker Id="6b18c868-4ec1-471e-8754-731af96948d5" />
+        <classShapeMoniker Id="d81c9b70-0b22-4254-9bac-3ee464940934" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
