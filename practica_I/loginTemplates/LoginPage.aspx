@@ -35,7 +35,7 @@
                 <div class="login100-form-avatar">
                     <asp:Image ID="imgAvatar" ImageUrl="~/images/avatar-01.jpg" runat="server" />
                 </div>
-                <span class="login100-form-title p-t-20 p-b-45">Login
+                <span class="login100-form-title p-t-20 p-b-45">Login Probando
                 </span>
                 <asp:Panel ID="pnRecuperar" runat="server">
                     <p style="line-height: 1.1; margin-bottom: 20px; color: white;"><small>Ingrese el email que utilizo al momento del registro de su usuario</small></p>
